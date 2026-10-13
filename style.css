@@ -1,18 +1,17 @@
-.div-bg {
-	background-color:red;
-	color:white;
-	font-size:32px;
-	text-align:center;
+.oe {
+	background-color: #FFB6C1;
+	font-family: Verdana, sans-serif;
+
+}
+
+.hdr {
+	color:darkblue;
+	font-size:36px;
+}
+
+.oe.special{
+	background-color:green;
+	font-size:24px;
 	font-weight:bold;
 }
 
-.p-bg {
-	background-color:green;
-	color:white;
-	font-size:18px;
-}
-
-.button-bg {
-	background-color:orange;
-	font-size:18px;
-}
